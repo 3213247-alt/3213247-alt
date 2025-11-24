@@ -1,0 +1,15 @@
+Candidate: Digital Forensics
+
+Why it fits:
+1. UAlbany Strength: UAlbany launched the first accredited undergraduate Digital Forensics program in New York State. It is one of the few programs in the nation with dual AACSB (Business) accreditation and NSA/DHS "Center of Academic Excellence" designation.
+2. Specialization vs Breadth: It is "Way down in depth" (file systems, hex analysis, network packets) like actuary work, but broadly applicable to any industry (unlike actuary which is tied to insurance).
+3. Respect: The "Investigator" role commands high internal respect. You are the source of truth in a crisis.
+4. Tenure/Stability: 20+ years. Cybercrime isn't going away.
+5. Automation: It requires "Integrity" and "Chain of Custody" and "Testimony". AI cannot testify in court or sign an affidavit of integrity.
+6. Remote: Analysis is done on digital images (copies of hard drives). Can be done from anywhere.
+7. Switcher at 28: It values maturity (integrity/background checks) more than just raw coding speed.
+
+Starting Point:
+Bachelor of Science in Digital Forensics
+School of Business / College of Emergency Preparedness, Homeland Security and Cybersecurity (CEHC)
+University at Albany
