@@ -1,0 +1,7 @@
+Medical Physics Facts:
+- Path: BS Physics -> MS/PhD Medical Physics (CAMPEP) -> Residency (2 yrs) -> ABR Exams (Part 1, 2, 3).
+- Timeline: MS track = ~4-5 years post BS. PhD track = ~7-8 years post BS.
+- Exams: ABR exams are notorious. Part 1 (General), Part 2 (Specific), Part 3 (Oral).
+- Respect: 'The Physicist'. Legally required for radiation treatments.
+- Exits: Finance (Quants), Big Tech (Imaging/AI), Admin.
+
