@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Career Analysis Documents
+- [Actuary vs Software Engineer: UAlbany Student Guide](./actuary_vs_swe_ualbany.md)
+- [Actuarial Career Analysis (General)](./actuarial_career_analysis.md)
