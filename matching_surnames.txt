@@ -1,0 +1,19 @@
+Surnames Matching Adler's Statistics
+================================================================================
+
+Adler: Rank 2223, Count 16,412, US% 0.0053%
+
+Top 12 Matches:
+--------------------------------------------------------------------------------
+ADLER                Rank: 2223   Count: 16,412     US%: 0.0053%
+CHADWICK             Rank: 2222   Count: 16,415     US%: 0.0053%
+BARNEY               Rank: 2224   Count: 16,404     US%: 0.0053%
+WHITING              Rank: 2221   Count: 16,418     US%: 0.0053%
+ONTIVEROS            Rank: 2225   Count: 16,382     US%: 0.0053%
+ENNIS                Rank: 2220   Count: 16,419     US%: 0.0053%
+RING                 Rank: 2226   Count: 16,381     US%: 0.0053%
+FOOTE                Rank: 2219   Count: 16,425     US%: 0.0053%
+RIDER                Rank: 2227   Count: 16,352     US%: 0.0053%
+HUSTON               Rank: 2218   Count: 16,435     US%: 0.0053%
+JOINER               Rank: 2228   Count: 16,349     US%: 0.0053%
+ALTMAN               Rank: 2217   Count: 16,448     US%: 0.0053%
