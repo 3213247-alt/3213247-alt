@@ -1,0 +1,1002 @@
+[
+  {
+    "surname": "ADLER",
+    "match_score": 100.0,
+    "us_count": 16412,
+    "us_rank": 2223,
+    "us_proportion": 5.31570435197674e-05,
+    "prop100k": 5.56,
+    "score_details": {
+      "count_score": 100.0,
+      "count_diff_pct": 0.0,
+      "rank_score": 100.0,
+      "rank_diff_pct": 0.0,
+      "prop_score": 100.0,
+      "prop_diff_pct": 0.0,
+      "prop100k_score": 100.0,
+      "prop100k_diff_pct": 0.0,
+      "avg_score": 100.0,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "CHADWICK",
+    "match_score": 99.97961428221058,
+    "us_count": 16415,
+    "us_rank": 2222,
+    "us_proportion": 5.3166760259382276e-05,
+    "prop100k": 5.56,
+    "score_details": {
+      "count_score": 99.98172069217645,
+      "count_diff_pct": 0.01827930782354375,
+      "rank_score": 99.95501574448943,
+      "rank_diff_pct": 0.0449842555105713,
+      "prop_score": 99.98172069217645,
+      "prop_diff_pct": 0.01827930782354939,
+      "prop100k_score": 100.0,
+      "prop100k_diff_pct": 0.0,
+      "avg_score": 99.97961428221058,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "BARNEY",
+    "match_score": 99.96438152569097,
+    "us_count": 16404,
+    "us_rank": 2224,
+    "us_proportion": 5.313113221412774e-05,
+    "prop100k": 5.56,
+    "score_details": {
+      "count_score": 99.95125517913722,
+      "count_diff_pct": 0.04874482086278333,
+      "rank_score": 99.95501574448943,
+      "rank_diff_pct": 0.0449842555105713,
+      "prop_score": 99.95125517913722,
+      "prop_diff_pct": 0.048744820862781375,
+      "prop100k_score": 100.0,
+      "prop100k_diff_pct": 0.0,
+      "avg_score": 99.96438152569097,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "WHITING",
+    "match_score": 99.9142645356442,
+    "us_count": 16418,
+    "us_rank": 2221,
+    "us_proportion": 5.3176476998997145e-05,
+    "prop100k": 5.57,
+    "score_details": {
+      "count_score": 99.96344138435292,
+      "count_diff_pct": 0.0365586156470875,
+      "rank_score": 99.91003148897886,
+      "rank_diff_pct": 0.0899685110211426,
+      "prop_score": 99.96344138435292,
+      "prop_diff_pct": 0.03655861564708603,
+      "prop100k_score": 99.82014388489208,
+      "prop100k_diff_pct": 0.17985611510792582,
+      "avg_score": 99.9142645356442,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "ENNIS",
+    "match_score": 99.89997192046262,
+    "us_count": 16419,
+    "us_rank": 2220,
+    "us_proportion": 5.3179715912202107e-05,
+    "prop100k": 5.57,
+    "score_details": {
+      "count_score": 99.95734828174506,
+      "count_diff_pct": 0.04265171825493541,
+      "rank_score": 99.86504723346829,
+      "rank_diff_pct": 0.1349527665317139,
+      "prop_score": 99.95734828174506,
+      "prop_diff_pct": 0.04265171825494008,
+      "prop100k_score": 99.82014388489208,
+      "prop100k_diff_pct": 0.17985611510792582,
+      "avg_score": 99.89997192046262,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "FOOTE",
+    "match_score": 99.87044654876144,
+    "us_count": 16425,
+    "us_rank": 2219,
+    "us_proportion": 5.319914939143185e-05,
+    "prop100k": 5.57,
+    "score_details": {
+      "count_score": 99.92078966609797,
+      "count_diff_pct": 0.07921033390202291,
+      "rank_score": 99.82006297795772,
+      "rank_diff_pct": 0.1799370220422852,
+      "prop_score": 99.92078966609797,
+      "prop_diff_pct": 0.07921033390202611,
+      "prop100k_score": 99.82014388489208,
+      "prop100k_diff_pct": 0.17985611510792582,
+      "avg_score": 99.87044654876144,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "ONTIVEROS",
+    "match_score": 99.84114730435002,
+    "us_count": 16382,
+    "us_rank": 2225,
+    "us_proportion": 5.305987612361867e-05,
+    "prop100k": 5.55,
+    "score_details": {
+      "count_score": 99.81720692176457,
+      "count_diff_pct": 0.18279307823543747,
+      "rank_score": 99.91003148897886,
+      "rank_diff_pct": 0.0899685110211426,
+      "prop_score": 99.81720692176457,
+      "prop_diff_pct": 0.18279307823543017,
+      "prop100k_score": 99.82014388489209,
+      "prop100k_diff_pct": 0.17985611510790983,
+      "avg_score": 99.84114730435002,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "HUSTON",
+    "match_score": 99.82873497184455,
+    "us_count": 16435,
+    "us_rank": 2218,
+    "us_proportion": 5.323153852348143e-05,
+    "prop100k": 5.57,
+    "score_details": {
+      "count_score": 99.8598586400195,
+      "count_diff_pct": 0.1401413599805021,
+      "rank_score": 99.77507872244715,
+      "rank_diff_pct": 0.22492127755285649,
+      "prop_score": 99.8598586400195,
+      "prop_diff_pct": 0.14014135998050284,
+      "prop100k_score": 99.82014388489208,
+      "prop100k_diff_pct": 0.17985611510792582,
+      "avg_score": 99.82873497184455,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "RING",
+    "match_score": 99.82685468916846,
+    "us_count": 16381,
+    "us_rank": 2226,
+    "us_proportion": 5.305663721041371e-05,
+    "prop100k": 5.55,
+    "score_details": {
+      "count_score": 99.81111381915672,
+      "count_diff_pct": 0.1888861808432854,
+      "rank_score": 99.86504723346829,
+      "rank_diff_pct": 0.1349527665317139,
+      "prop_score": 99.81111381915672,
+      "prop_diff_pct": 0.1888861808432842,
+      "prop100k_score": 99.82014388489209,
+      "prop100k_diff_pct": 0.17985611510790983,
+      "avg_score": 99.82685468916846,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "ALTMAN",
+    "match_score": 99.73291971223892,
+    "us_count": 16448,
+    "us_rank": 2217,
+    "us_proportion": 5.327364439514588e-05,
+    "prop100k": 5.58,
+    "score_details": {
+      "count_score": 99.78064830611747,
+      "count_diff_pct": 0.21935169388252496,
+      "rank_score": 99.73009446693656,
+      "rank_diff_pct": 0.2699055330634278,
+      "prop_score": 99.78064830611747,
+      "prop_diff_pct": 0.21935169388252895,
+      "prop100k_score": 99.64028776978417,
+      "prop100k_diff_pct": 0.3597122302158357,
+      "avg_score": 99.73291971223892,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "ABERNATHY",
+    "match_score": 99.71558054575343,
+    "us_count": 16450,
+    "us_rank": 2216,
+    "us_proportion": 5.32801222215558e-05,
+    "prop100k": 5.58,
+    "score_details": {
+      "count_score": 99.76846210090177,
+      "count_diff_pct": 0.2315378990982208,
+      "rank_score": 99.685110211426,
+      "rank_diff_pct": 0.3148897885739991,
+      "prop_score": 99.76846210090177,
+      "prop_diff_pct": 0.23153789909822428,
+      "prop100k_score": 99.64028776978417,
+      "prop100k_diff_pct": 0.3597122302158357,
+      "avg_score": 99.71558054575343,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "RINCON",
+    "match_score": 99.68910172535617,
+    "us_count": 16455,
+    "us_rank": 2215,
+    "us_proportion": 5.329631678758059e-05,
+    "prop100k": 5.58,
+    "score_details": {
+      "count_score": 99.73799658786254,
+      "count_diff_pct": 0.26200341213746037,
+      "rank_score": 99.64012595591542,
+      "rank_diff_pct": 0.3598740440845704,
+      "prop_score": 99.73799658786253,
+      "prop_diff_pct": 0.262003412137469,
+      "prop100k_score": 99.64028776978417,
+      "prop100k_diff_pct": 0.3597122302158357,
+      "avg_score": 99.68910172535617,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "RIDER",
+    "match_score": 99.68229460870003,
+    "us_count": 16352,
+    "us_rank": 2227,
+    "us_proportion": 5.296270872746993e-05,
+    "prop100k": 5.54,
+    "score_details": {
+      "count_score": 99.63441384352912,
+      "count_diff_pct": 0.36558615647087495,
+      "rank_score": 99.82006297795772,
+      "rank_diff_pct": 0.1799370220422852,
+      "prop_score": 99.63441384352912,
+      "prop_diff_pct": 0.3655861564708731,
+      "prop100k_score": 99.64028776978418,
+      "prop100k_diff_pct": 0.35971223021581966,
+      "avg_score": 99.68229460870003,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "JOINER",
+    "match_score": 99.66190889091062,
+    "us_count": 16349,
+    "us_rank": 2228,
+    "us_proportion": 5.295299198785506e-05,
+    "prop100k": 5.54,
+    "score_details": {
+      "count_score": 99.61613453570558,
+      "count_diff_pct": 0.3838654642944187,
+      "rank_score": 99.77507872244715,
+      "rank_diff_pct": 0.22492127755285649,
+      "prop_score": 99.6161345357056,
+      "prop_diff_pct": 0.3838654642944097,
+      "prop100k_score": 99.64028776978418,
+      "prop100k_diff_pct": 0.35971223021581966,
+      "avg_score": 99.66190889091062,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "HOGUE",
+    "match_score": 99.66051649499303,
+    "us_count": 16457,
+    "us_rank": 2213,
+    "us_proportion": 5.3302794613990505e-05,
+    "prop100k": 5.58,
+    "score_details": {
+      "count_score": 99.72581038264684,
+      "count_diff_pct": 0.2741896173531562,
+      "rank_score": 99.55015744489428,
+      "rank_diff_pct": 0.44984255510571297,
+      "prop_score": 99.72581038264684,
+      "prop_diff_pct": 0.2741896173531644,
+      "prop100k_score": 99.64028776978417,
+      "prop100k_diff_pct": 0.3597122302158357,
+      "avg_score": 99.66051649499303,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "OROURKE",
+    "match_score": 99.66051649499303,
+    "us_count": 16457,
+    "us_rank": 2213,
+    "us_proportion": 5.3302794613990505e-05,
+    "prop100k": 5.58,
+    "score_details": {
+      "count_score": 99.72581038264684,
+      "count_diff_pct": 0.2741896173531562,
+      "rank_score": 99.55015744489428,
+      "rank_diff_pct": 0.44984255510571297,
+      "prop_score": 99.72581038264684,
+      "prop_diff_pct": 0.2741896173531644,
+      "prop100k_score": 99.64028776978417,
+      "prop100k_diff_pct": 0.3597122302158357,
+      "avg_score": 99.66051649499303,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "EASLEY",
+    "match_score": 99.64317732850753,
+    "us_count": 16459,
+    "us_rank": 2212,
+    "us_proportion": 5.330927244040042e-05,
+    "prop100k": 5.58,
+    "score_details": {
+      "count_score": 99.71362417743114,
+      "count_diff_pct": 0.286375822568852,
+      "rank_score": 99.50517318938371,
+      "rank_diff_pct": 0.4948268106162843,
+      "prop_score": 99.71362417743114,
+      "prop_diff_pct": 0.28637582256885974,
+      "prop100k_score": 99.64028776978417,
+      "prop100k_diff_pct": 0.3597122302158357,
+      "avg_score": 99.64317732850753,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "GOLDSMITH",
+    "match_score": 99.6415231731212,
+    "us_count": 16346,
+    "us_rank": 2229,
+    "us_proportion": 5.2943275248240186e-05,
+    "prop100k": 5.54,
+    "score_details": {
+      "count_score": 99.59785522788204,
+      "count_diff_pct": 0.40214477211796246,
+      "rank_score": 99.73009446693656,
+      "rank_diff_pct": 0.2699055330634278,
+      "prop_score": 99.59785522788204,
+      "prop_diff_pct": 0.40214477211795907,
+      "prop100k_score": 99.64028776978418,
+      "prop100k_diff_pct": 0.35971223021581966,
+      "avg_score": 99.6415231731212,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "PERDUE",
+    "match_score": 99.61669850811029,
+    "us_count": 16464,
+    "us_rank": 2211,
+    "us_proportion": 5.3325467006425205e-05,
+    "prop100k": 5.58,
+    "score_details": {
+      "count_score": 99.68315866439191,
+      "count_diff_pct": 0.31684133560809163,
+      "rank_score": 99.46018893387314,
+      "rank_diff_pct": 0.5398110661268556,
+      "prop_score": 99.68315866439191,
+      "prop_diff_pct": 0.3168413356080917,
+      "prop100k_score": 99.64028776978417,
+      "prop100k_diff_pct": 0.3597122302158357,
+      "avg_score": 99.61669850811029,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "BAUM",
+    "match_score": 99.59371849359647,
+    "us_count": 16334,
+    "us_rank": 2230,
+    "us_proportion": 5.2904408289780694e-05,
+    "prop100k": 5.54,
+    "score_details": {
+      "count_score": 99.52473799658786,
+      "count_diff_pct": 0.4752620034121375,
+      "rank_score": 99.685110211426,
+      "rank_diff_pct": 0.3148897885739991,
+      "prop_score": 99.52473799658786,
+      "prop_diff_pct": 0.47526200341213115,
+      "prop100k_score": 99.64028776978418,
+      "prop100k_diff_pct": 0.35971223021581966,
+      "avg_score": 99.59371849359647,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "TAMAYO",
+    "match_score": 99.57498693119341,
+    "us_count": 16474,
+    "us_rank": 2210,
+    "us_proportion": 5.335785613847478e-05,
+    "prop100k": 5.58,
+    "score_details": {
+      "count_score": 99.62222763831343,
+      "count_diff_pct": 0.3777723616865708,
+      "rank_score": 99.41520467836258,
+      "rank_diff_pct": 0.5847953216374269,
+      "prop_score": 99.62222763831343,
+      "prop_diff_pct": 0.3777723616865684,
+      "prop100k_score": 99.64028776978417,
+      "prop100k_diff_pct": 0.3597122302158357,
+      "avg_score": 99.57498693119341,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "LINCOLN",
+    "match_score": 99.509637184627,
+    "us_count": 16477,
+    "us_rank": 2209,
+    "us_proportion": 5.336757287808966e-05,
+    "prop100k": 5.59,
+    "score_details": {
+      "count_score": 99.60394833048989,
+      "count_diff_pct": 0.39605166951011456,
+      "rank_score": 99.370220422852,
+      "rank_diff_pct": 0.6297795771479981,
+      "prop_score": 99.60394833048987,
+      "prop_diff_pct": 0.3960516695101178,
+      "prop100k_score": 99.46043165467626,
+      "prop100k_diff_pct": 0.5395683453237455,
+      "avg_score": 99.509637184627,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "RUFFIN",
+    "match_score": 99.50704288790261,
+    "us_count": 16324,
+    "us_rank": 2231,
+    "us_proportion": 5.287201915773112e-05,
+    "prop100k": 5.53,
+    "score_details": {
+      "count_score": 99.46380697050938,
+      "count_diff_pct": 0.5361930294906166,
+      "rank_score": 99.64012595591542,
+      "rank_diff_pct": 0.3598740440845704,
+      "prop_score": 99.4638069705094,
+      "prop_diff_pct": 0.5361930294906079,
+      "prop100k_score": 99.46043165467627,
+      "prop100k_diff_pct": 0.5395683453237295,
+      "avg_score": 99.50704288790261,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "LAUGHLIN",
+    "match_score": 99.49275027272105,
+    "us_count": 16323,
+    "us_rank": 2232,
+    "us_proportion": 5.286878024452616e-05,
+    "prop100k": 5.53,
+    "score_details": {
+      "count_score": 99.45771386790153,
+      "count_diff_pct": 0.5422861320984645,
+      "rank_score": 99.59514170040485,
+      "rank_diff_pct": 0.4048582995951417,
+      "prop_score": 99.45771386790155,
+      "prop_diff_pct": 0.5422861320984619,
+      "prop100k_score": 99.46043165467627,
+      "prop100k_diff_pct": 0.5395683453237295,
+      "avg_score": 99.49275027272105,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "ANGUIANO",
+    "match_score": 99.49229801814151,
+    "us_count": 16479,
+    "us_rank": 2208,
+    "us_proportion": 5.3374050704499573e-05,
+    "prop100k": 5.59,
+    "score_details": {
+      "count_score": 99.59176212527419,
+      "count_diff_pct": 0.40823787472581036,
+      "rank_score": 99.32523616734143,
+      "rank_diff_pct": 0.6747638326585695,
+      "prop_score": 99.59176212527419,
+      "prop_diff_pct": 0.40823787472581313,
+      "prop100k_score": 99.46043165467626,
+      "prop100k_diff_pct": 0.5395683453237455,
+      "avg_score": 99.49229801814151,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "RADER",
+    "match_score": 99.47236455493163,
+    "us_count": 16320,
+    "us_rank": 2233,
+    "us_proportion": 5.285906350491129e-05,
+    "prop100k": 5.53,
+    "score_details": {
+      "count_score": 99.43943456007798,
+      "count_diff_pct": 0.5605654399220084,
+      "rank_score": 99.55015744489428,
+      "rank_diff_pct": 0.44984255510571297,
+      "prop_score": 99.439434560078,
+      "prop_diff_pct": 0.5605654399219986,
+      "prop100k_score": 99.46043165467627,
+      "prop100k_diff_pct": 0.5395683453237295,
+      "avg_score": 99.47236455493163,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "REAGAN",
+    "match_score": 99.44449333861678,
+    "us_count": 16491,
+    "us_rank": 2207,
+    "us_proportion": 5.3412917662959065e-05,
+    "prop100k": 5.59,
+    "score_details": {
+      "count_score": 99.51864489398001,
+      "count_diff_pct": 0.4813551060199854,
+      "rank_score": 99.28025191183086,
+      "rank_diff_pct": 0.7197480881691408,
+      "prop_score": 99.51864489398001,
+      "prop_diff_pct": 0.4813551060199852,
+      "prop100k_score": 99.46043165467626,
+      "prop100k_diff_pct": 0.5395683453237455,
+      "avg_score": 99.44449333861678,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "BARON",
+    "match_score": 99.42455987540691,
+    "us_count": 16308,
+    "us_rank": 2234,
+    "us_proportion": 5.282019654645179e-05,
+    "prop100k": 5.53,
+    "score_details": {
+      "count_score": 99.36631732878382,
+      "count_diff_pct": 0.6336826712161833,
+      "rank_score": 99.50517318938371,
+      "rank_diff_pct": 0.4948268106162843,
+      "prop_score": 99.36631732878382,
+      "prop_diff_pct": 0.6336826712161834,
+      "prop100k_score": 99.46043165467627,
+      "prop100k_diff_pct": 0.5395683453237295,
+      "avg_score": 99.42455987540691,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "ARNETT",
+    "match_score": 99.40887486430775,
+    "us_count": 16499,
+    "us_rank": 2206,
+    "us_proportion": 5.343882896859873e-05,
+    "prop100k": 5.59,
+    "score_details": {
+      "count_score": 99.46990007311723,
+      "count_diff_pct": 0.5300999268827687,
+      "rank_score": 99.23526765632029,
+      "rank_diff_pct": 0.7647323436797121,
+      "prop_score": 99.46990007311723,
+      "prop_diff_pct": 0.5300999268827665,
+      "prop100k_score": 99.46043165467626,
+      "prop100k_diff_pct": 0.5395683453237455,
+      "avg_score": 99.40887486430775,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "TRIMBLE",
+    "match_score": 99.40722070892141,
+    "us_count": 16306,
+    "us_rank": 2235,
+    "us_proportion": 5.281371872004187e-05,
+    "prop100k": 5.53,
+    "score_details": {
+      "count_score": 99.35413112356812,
+      "count_diff_pct": 0.6458688764318791,
+      "rank_score": 99.46018893387314,
+      "rank_diff_pct": 0.5398110661268556,
+      "prop_score": 99.35413112356812,
+      "prop_diff_pct": 0.6458688764318787,
+      "prop100k_score": 99.46043165467627,
+      "prop100k_diff_pct": 0.5395683453237295,
+      "avg_score": 99.40722070892141,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "HARE",
+    "match_score": 99.38988154243593,
+    "us_count": 16304,
+    "us_rank": 2236,
+    "us_proportion": 5.280724089363196e-05,
+    "prop100k": 5.53,
+    "score_details": {
+      "count_score": 99.34194491835243,
+      "count_diff_pct": 0.6580550816475749,
+      "rank_score": 99.41520467836258,
+      "rank_diff_pct": 0.5847953216374269,
+      "prop_score": 99.34194491835243,
+      "prop_diff_pct": 0.6580550816475741,
+      "prop100k_score": 99.46043165467627,
+      "prop100k_diff_pct": 0.5395683453237295,
+      "avg_score": 99.38988154243593,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "RUSS",
+    "match_score": 99.3664492733426,
+    "us_count": 16300,
+    "us_rank": 2237,
+    "us_proportion": 5.279428524081213e-05,
+    "prop100k": 5.53,
+    "score_details": {
+      "count_score": 99.31757250792104,
+      "count_diff_pct": 0.6824274920789666,
+      "rank_score": 99.370220422852,
+      "rank_diff_pct": 0.6297795771479981,
+      "prop_score": 99.31757250792104,
+      "prop_diff_pct": 0.6824274920789648,
+      "prop100k_score": 99.46043165467627,
+      "prop100k_diff_pct": 0.5395683453237295,
+      "avg_score": 99.3664492733426,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "ADAMSON",
+    "match_score": 99.30391995079034,
+    "us_count": 16515,
+    "us_rank": 2205,
+    "us_proportion": 5.3490651579878056e-05,
+    "prop100k": 5.6,
+    "score_details": {
+      "count_score": 99.37241043139167,
+      "count_diff_pct": 0.6275895686083354,
+      "rank_score": 99.19028340080972,
+      "rank_diff_pct": 0.8097165991902834,
+      "prop_score": 99.37241043139166,
+      "prop_diff_pct": 0.6275895686083421,
+      "prop100k_score": 99.28057553956835,
+      "prop100k_diff_pct": 0.7194244604316554,
+      "avg_score": 99.30391995079034,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "AHMAD",
+    "match_score": 99.28282021895265,
+    "us_count": 16291,
+    "us_rank": 2238,
+    "us_proportion": 5.2765135021967504e-05,
+    "prop100k": 5.52,
+    "score_details": {
+      "count_score": 99.26273458445041,
+      "count_diff_pct": 0.7372654155495978,
+      "rank_score": 99.32523616734143,
+      "rank_diff_pct": 0.6747638326585695,
+      "prop_score": 99.2627345844504,
+      "prop_diff_pct": 0.7372654155496002,
+      "prop100k_score": 99.28057553956835,
+      "prop100k_diff_pct": 0.7194244604316554,
+      "avg_score": 99.28282021895265,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "BURKHART",
+    "match_score": 99.25916182256954,
+    "us_count": 16526,
+    "us_rank": 2204,
+    "us_proportion": 5.352627962513259e-05,
+    "prop100k": 5.6,
+    "score_details": {
+      "count_score": 99.30538630270533,
+      "count_diff_pct": 0.6946136972946625,
+      "rank_score": 99.14529914529915,
+      "rank_diff_pct": 0.8547008547008548,
+      "prop_score": 99.30538630270534,
+      "prop_diff_pct": 0.6946136972946602,
+      "prop100k_score": 99.28057553956835,
+      "prop100k_diff_pct": 0.7194244604316554,
+      "avg_score": 99.25916182256954,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "PARR",
+    "match_score": 99.25634139855538,
+    "us_count": 16286,
+    "us_rank": 2239,
+    "us_proportion": 5.274894045594272e-05,
+    "prop100k": 5.52,
+    "score_details": {
+      "count_score": 99.23226907141117,
+      "count_diff_pct": 0.7677309285888374,
+      "rank_score": 99.28025191183086,
+      "rank_diff_pct": 0.7197480881691408,
+      "prop_score": 99.23226907141117,
+      "prop_diff_pct": 0.7677309285888322,
+      "prop100k_score": 99.28057553956835,
+      "prop100k_diff_pct": 0.7194244604316554,
+      "avg_score": 99.25634139855538,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "MONTANEZ",
+    "match_score": 99.22986257815812,
+    "us_count": 16281,
+    "us_rank": 2240,
+    "us_proportion": 5.273274588991793e-05,
+    "prop100k": 5.52,
+    "score_details": {
+      "count_score": 99.20180355837192,
+      "count_diff_pct": 0.798196441628077,
+      "rank_score": 99.23526765632029,
+      "rank_diff_pct": 0.7647323436797121,
+      "prop_score": 99.20180355837192,
+      "prop_diff_pct": 0.798196441628077,
+      "prop100k_score": 99.28057553956835,
+      "prop100k_diff_pct": 0.7194244604316554,
+      "avg_score": 99.22986257815812,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "CARRERA",
+    "match_score": 99.22658989956443,
+    "us_count": 16533,
+    "us_rank": 2203,
+    "us_proportion": 5.3548952017567294e-05,
+    "prop100k": 5.6,
+    "score_details": {
+      "count_score": 99.26273458445041,
+      "count_diff_pct": 0.7372654155495978,
+      "rank_score": 99.10031488978858,
+      "rank_diff_pct": 0.8996851102114259,
+      "prop_score": 99.2627345844504,
+      "prop_diff_pct": 0.7372654155496002,
+      "prop100k_score": 99.28057553956835,
+      "prop100k_diff_pct": 0.7194244604316554,
+      "avg_score": 99.22658989956443,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "AARON",
+    "match_score": 99.20338375776086,
+    "us_count": 16276,
+    "us_rank": 2241,
+    "us_proportion": 5.271655132389314e-05,
+    "prop100k": 5.52,
+    "score_details": {
+      "count_score": 99.17133804533267,
+      "count_diff_pct": 0.8286619546673165,
+      "rank_score": 99.19028340080972,
+      "rank_diff_pct": 0.8097165991902834,
+      "prop_score": 99.17133804533269,
+      "prop_diff_pct": 0.8286619546673089,
+      "prop100k_score": 99.28057553956835,
+      "prop100k_diff_pct": 0.7194244604316554,
+      "avg_score": 99.20338375776086,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "DUFF",
+    "match_score": 99.16124015299803,
+    "us_count": 16536,
+    "us_rank": 2202,
+    "us_proportion": 5.355866875718217e-05,
+    "prop100k": 5.61,
+    "score_details": {
+      "count_score": 99.24445527662687,
+      "count_diff_pct": 0.7555447233731416,
+      "rank_score": 99.05533063427801,
+      "rank_diff_pct": 0.9446693657219973,
+      "prop_score": 99.24445527662685,
+      "prop_diff_pct": 0.7555447233731496,
+      "prop100k_score": 99.10071942446041,
+      "prop100k_diff_pct": 0.8992805755395812,
+      "avg_score": 99.16124015299803,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "MALLOY",
+    "match_score": 99.10828251220352,
+    "us_count": 16546,
+    "us_rank": 2200,
+    "us_proportion": 5.359105788923175e-05,
+    "prop100k": 5.61,
+    "score_details": {
+      "count_score": 99.18352425054839,
+      "count_diff_pct": 0.8164757494516207,
+      "rank_score": 98.96536212325687,
+      "rank_diff_pct": 1.03463787674314,
+      "prop_score": 99.18352425054837,
+      "prop_diff_pct": 0.8164757494516263,
+      "prop100k_score": 99.10071942446041,
+      "prop100k_diff_pct": 0.8992805755395812,
+      "avg_score": 99.10828251220352,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "SCHILLING",
+    "match_score": 99.10828251220352,
+    "us_count": 16546,
+    "us_rank": 2200,
+    "us_proportion": 5.359105788923175e-05,
+    "prop100k": 5.61,
+    "score_details": {
+      "count_score": 99.18352425054839,
+      "count_diff_pct": 0.8164757494516207,
+      "rank_score": 98.96536212325687,
+      "rank_diff_pct": 1.03463787674314,
+      "prop_score": 99.18352425054837,
+      "prop_diff_pct": 0.8164757494516263,
+      "prop100k_score": 99.10071942446041,
+      "prop100k_diff_pct": 0.8992805755395812,
+      "avg_score": 99.10828251220352,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "CLINTON",
+    "match_score": 99.10756849815522,
+    "us_count": 16263,
+    "us_rank": 2242,
+    "us_proportion": 5.267444545222869e-05,
+    "prop100k": 5.51,
+    "score_details": {
+      "count_score": 99.09212771143065,
+      "count_diff_pct": 0.9078722885693394,
+      "rank_score": 99.14529914529915,
+      "rank_diff_pct": 0.8547008547008548,
+      "prop_score": 99.09212771143066,
+      "prop_diff_pct": 0.9078722885693351,
+      "prop100k_score": 99.10071942446044,
+      "prop100k_diff_pct": 0.8992805755395652,
+      "avg_score": 99.10756849815522,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "WOODALL",
+    "match_score": 99.08718278036581,
+    "us_count": 16260,
+    "us_rank": 2243,
+    "us_proportion": 5.266472871261381e-05,
+    "prop100k": 5.51,
+    "score_details": {
+      "count_score": 99.07384840360712,
+      "count_diff_pct": 0.9261515963928832,
+      "rank_score": 99.10031488978858,
+      "rank_diff_pct": 0.8996851102114259,
+      "prop_score": 99.07384840360712,
+      "prop_diff_pct": 0.9261515963928845,
+      "prop100k_score": 99.10071942446044,
+      "prop100k_diff_pct": 0.8992805755395652,
+      "avg_score": 99.08718278036581,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "HENNING",
+    "match_score": 99.0635243839827,
+    "us_count": 16557,
+    "us_rank": 2199,
+    "us_proportion": 5.3626685934486285e-05,
+    "prop100k": 5.61,
+    "score_details": {
+      "count_score": 99.11650012186205,
+      "count_diff_pct": 0.8834998781379478,
+      "rank_score": 98.9203778677463,
+      "rank_diff_pct": 1.0796221322537112,
+      "prop_score": 99.11650012186203,
+      "prop_diff_pct": 0.883499878137957,
+      "prop100k_score": 99.10071942446041,
+      "prop100k_diff_pct": 0.8992805755395812,
+      "avg_score": 99.0635243839827,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "PAPPAS",
+    "match_score": 99.04618521749721,
+    "us_count": 16559,
+    "us_rank": 2198,
+    "us_proportion": 5.36331637608962e-05,
+    "prop100k": 5.61,
+    "score_details": {
+      "count_score": 99.10431391664636,
+      "count_diff_pct": 0.8956860833536436,
+      "rank_score": 98.87539361223571,
+      "rank_diff_pct": 1.1246063877642825,
+      "prop_score": 99.10431391664635,
+      "prop_diff_pct": 0.8956860833536525,
+      "prop100k_score": 99.10071942446041,
+      "prop100k_diff_pct": 0.8992805755395812,
+      "avg_score": 99.04618521749721,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "MARCUM",
+    "match_score": 99.03328499823323,
+    "us_count": 16246,
+    "us_rank": 2244,
+    "us_proportion": 5.2619383927744406e-05,
+    "prop100k": 5.51,
+    "score_details": {
+      "count_score": 98.98854496709724,
+      "count_diff_pct": 1.011455032902754,
+      "rank_score": 99.05533063427801,
+      "rank_diff_pct": 0.9446693657219973,
+      "prop_score": 98.98854496709724,
+      "prop_diff_pct": 1.0114550329027518,
+      "prop100k_score": 99.10071942446044,
+      "prop100k_diff_pct": 0.8992805755395652,
+      "avg_score": 99.03328499823323,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "GIORDANO",
+    "match_score": 98.95950961180336,
+    "us_count": 16569,
+    "us_rank": 2197,
+    "us_proportion": 5.366555289294578e-05,
+    "prop100k": 5.62,
+    "score_details": {
+      "count_score": 99.04338289056788,
+      "count_diff_pct": 0.9566171094321227,
+      "rank_score": 98.83040935672514,
+      "rank_diff_pct": 1.1695906432748537,
+      "prop_score": 99.04338289056787,
+      "prop_diff_pct": 0.9566171094321292,
+      "prop100k_score": 98.92086330935251,
+      "prop100k_diff_pct": 1.079136690647491,
+      "avg_score": 98.95950961180336,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "DOWLING",
+    "match_score": 98.95270249514722,
+    "us_count": 16238,
+    "us_rank": 2245,
+    "us_proportion": 5.2593472622104745e-05,
+    "prop100k": 5.5,
+    "score_details": {
+      "count_score": 98.93980014623446,
+      "count_diff_pct": 1.0601998537655375,
+      "rank_score": 99.01034637876744,
+      "rank_diff_pct": 0.9896536212325686,
+      "prop_score": 98.93980014623448,
+      "prop_diff_pct": 1.060199853765533,
+      "prop100k_score": 98.92086330935253,
+      "prop100k_diff_pct": 1.079136690647475,
+      "avg_score": 98.95270249514722,
+      "metrics_matched": 4
+    }
+  },
+  {
+    "surname": "BALDERAS",
+    "match_score": 98.92693768879823,
+    "us_count": 16576,
+    "us_rank": 2196,
+    "us_proportion": 5.368822528538048e-05,
+    "prop100k": 5.62,
+    "score_details": {
+      "count_score": 99.00073117231294,
+      "count_diff_pct": 0.9992688276870584,
+      "rank_score": 98.78542510121457,
+      "rank_diff_pct": 1.214574898785425,
+      "prop_score": 99.00073117231294,
+      "prop_diff_pct": 0.9992688276870564,
+      "prop100k_score": 98.92086330935251,
+      "prop100k_diff_pct": 1.079136690647491,
+      "avg_score": 98.92693768879823,
+      "metrics_matched": 4
+    }
+  }
+]
